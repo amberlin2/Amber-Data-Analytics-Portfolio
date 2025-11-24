@@ -61,6 +61,4 @@ Interpreted statistical results with real-world meaning
 LinkedIn: https://www.linkedin.com/in/amber-locasto-058a61207/
 GitHub: https://github.com/amberlin2
 Email: amberlinlocasto2@gmail.com
-GitHub: https://github.com/amberlin2
 
-Email: (optional)
