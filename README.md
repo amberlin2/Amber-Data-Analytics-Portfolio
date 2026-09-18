@@ -84,5 +84,92 @@ Analyzed hospital operations data to identify patterns involving patients, emplo
 
 Used SQL and Power BI to analyze customer spending, sales trends, products, and territory performance.
 
-* Wrote SQL queries using j
+* Wrote SQL queries using joins, common table expressions, and window functions
+* Built a relational data model
+* Created measures and calculations for business performance
+* Designed interactive Power BI dashboards
+* Converted analysis results into practical business insights
 
+**Tools:** SQL, PostgreSQL, Power BI, DAX, data modeling
+
+[View the project folder](./project_adventureworks_sql_powerbi)
+
+---
+
+### Breast Cancer Classification
+
+Built a machine-learning workflow to classify breast tumors as malignant or benign.
+
+* Explored and prepared diagnostic data
+* Trained and evaluated classification models
+* Compared model performance using appropriate evaluation metrics
+* Visualized patterns and results
+* Considered how predictive modeling could support healthcare analysis
+
+**Tools:** Python, pandas, scikit-learn, Power BI, machine learning
+
+[View the project](https://github.com/amberlin2/breast-cancer-ml-project)
+
+---
+
+### Healthcare Classification Machine Learning
+
+Compared Random Forest and XGBoost models for predicting patient test-result categories.
+
+* Analyzed approximately 55,000 healthcare records
+* Cleaned clinical and demographic variables
+* Engineered a length-of-stay feature
+* Used one-hot encoding and numerical scaling
+* Compared baseline and tuned models using accuracy, F1 score, and ROC-AUC
+* Found that additional model complexity did not automatically improve performance
+
+**Tools:** Python, pandas, scikit-learn, XGBoost, machine learning
+
+[View the project](https://github.com/amberlin2/Healthcare-Classification-Machine-Learning-Project)
+
+---
+
+### DNA Sequence Analysis
+
+Used Python and Biopython to examine and analyze biological sequence data.
+
+* Imported and processed DNA sequences
+* Calculated sequence characteristics
+* Applied programming techniques to a biological-data problem
+* Connected my biology background with bioinformatics tools
+
+**Tools:** Python, Biopython, Jupyter Notebook, bioinformatics
+
+[View the project](https://github.com/amberlin2/DNA-Sequence-Analysis)
+
+## Current Development
+
+I am continuing to expand my skills through projects involving:
+
+* Healthcare and clinical informatics
+* Natural language processing
+* Machine learning and deep learning
+* SQL and data engineering
+* Power BI dashboard development
+* FHIR and healthcare interoperability
+* Wearable and sensor data analytics
+
+## Career Interests
+
+I am especially interested in opportunities involving:
+
+* Healthcare Data Analytics
+* Clinical Informatics
+* Laboratory and Pathology Informatics
+* Data Analytics
+* Business Intelligence
+* Bioinformatics
+* Machine Learning and Data Science
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/amber-locasto-058a61207/)
+* [GitHub](https://github.com/amberlin2)
+* Email: [amberlinlocasto2@gmail.com](mailto:amberlinlocasto2@gmail.com)
+
+Thank you for viewing my portfolio!
