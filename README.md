@@ -1,64 +1,88 @@
-Amber Locasto — Data Analytics Portfolio
+# Amber Locasto | Data Analytics Portfolio
 
-Welcome! I'm Amber Locasto — an aspiring Data Analyst with a background in biology, histology, and healthcare informatics.
-I specialize in using Python, SQL, Power BI, and R to transform data into actionable insights.
+Welcome! I am an HTL(ASCP)-certified histotechnologist and M.S. Informatics & Analytics candidate with a concentration in Clinical Informatics. I am combining my laboratory and healthcare experience with data analytics, machine learning, and informatics.
 
-This portfolio showcases real-world analytics projects completed during my graduate work and independent study.
+My goal is to use data to improve healthcare operations, clinical workflows, and decision-making. This portfolio contains projects completed through graduate coursework and independent study.
 
-🛠️ Technical Skills
+## Technical Skills
 
-Languages: Python, SQL, R
-Tools: Power BI, PostgreSQL, VS Code, RStudio
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, ggplot2
+* **Programming:** Python, SQL, R
+* **Data Analysis:** pandas, NumPy, statistical analysis, exploratory data analysis
+* **Machine Learning:** scikit-learn, TensorFlow, XGBoost, clustering, classification
+* **Text Analytics:** TF-IDF, sentence embeddings, cosine similarity, semantic search
+* **Visualization:** Power BI, Matplotlib, Seaborn, ggplot2
+* **Databases and Tools:** PostgreSQL, Jupyter Notebook, VS Code, Git, GitHub
+* **Healthcare:** Histology, pathology workflows, clinical informatics, healthcare data
 
-Core Skills:
-Data cleaning & preparation
+## Featured Projects
 
-Exploratory data analysis (EDA)
+### Explainable Colorectal Histology AI
 
-Statistical analysis
+An in-progress deep learning project that combines my professional histology background with computer vision and explainable artificial intelligence.
 
-Data visualization
+* Explored the PathMNIST colorectal histology image dataset
+* Analyzed tissue classes, image properties, and class distributions
+* Created TensorFlow preprocessing and data-augmentation pipelines
+* Preparing to compare CNN and transfer-learning models
+* Planning to use Grad-CAM to examine which tissue features influence predictions
 
-Dashboard development
+**Tools:** Python, TensorFlow, Keras, NumPy, Matplotlib, computer vision
 
-Business insights
+[View the project](https://github.com/amberlin2/explainable-colorectal-histology-ai)
 
-Healthcare analytics
+---
 
-📂 Projects
-🔹 Hospital Operations Analytics (Python)
+### Customer Support Semantic Search
 
-Folder: project_hospital_operations_python
+Compared traditional keyword-based search with modern sentence embeddings using a customer-support question-and-answer dataset.
 
-Cleaned and explored patient, staff, morale, and scheduling datasets
+* Represented text using Bag-of-Words and TF-IDF
+* Created sentence embeddings with `all-MiniLM-L6-v2`
+* Used cosine similarity to retrieve the five most relevant questions
+* Compared keyword matching with meaning-based semantic retrieval
+* Built a reusable search function for testing new customer questions
 
-Built visualizations to uncover operational patterns
+**Tools:** Python, pandas, scikit-learn, Sentence Transformers, Matplotlib, NLP
 
-Interpreted insights in a real healthcare context
+[View the project](https://github.com/amberlin2/customer-support-semantic-search)
 
-🔹 AdventureWorks Sales Analytics (SQL + Power BI)
+---
 
-Folder: Coming soon
+### Handwritten Digit Clustering
 
-Built a complete data model in Power BI
+Compared three unsupervised learning methods on 1,797 handwritten digit images.
 
-Wrote advanced SQL queries (joins, CTEs, window functions)
+* Applied K-Means, DBSCAN, and hierarchical clustering
+* Used the elbow method to select the number of clusters
+* Evaluated results using Adjusted Rand Index and Normalized Mutual Information
+* Found that K-Means produced the strongest results
+* Examined why DBSCAN struggled with high-dimensional image data
 
-Created dashboards showing customer spending, sales trends, and territory performance
+**Tools:** Python, scikit-learn, SciPy, NumPy, Matplotlib, clustering
 
-🔹 Statistical Analysis in R
+[View the project](https://github.com/amberlin2/handwritten-digit-clustering)
 
-Folder: Coming soon
+---
 
-Conducted hypothesis tests, ANOVA, correlations
+### Hospital Operations Analytics
 
-Visualized data using ggplot2
+Analyzed hospital operations data to identify patterns involving patients, employees, scheduling, and workplace morale.
 
-Interpreted statistical results with real-world meaning
+* Cleaned and prepared multiple healthcare datasets
+* Performed exploratory data analysis
+* Created visualizations to communicate operational patterns
+* Interpreted the results within a realistic healthcare environment
+* Connected data findings to staffing and operational decisions
 
-📬 Contact
-LinkedIn: https://www.linkedin.com/in/amber-locasto-058a61207/
-GitHub: https://github.com/amberlin2
-Email: amberlinlocasto2@gmail.com
+**Tools:** Python, pandas, NumPy, Matplotlib, Seaborn
+
+[View the project folder](./project_hospital_operations_python)
+
+---
+
+### AdventureWorks Sales Analytics
+
+Used SQL and Power BI to analyze customer spending, sales trends, products, and territory performance.
+
+* Wrote SQL queries using j
 
